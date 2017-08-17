@@ -1,15 +1,15 @@
 {
   "fake": "0",
   "idadmod": {
-      "baner":"ca-app-pub-3940256099942544/6300978111",
-	   "banerfull": "ca-app-pub-3940256099942544/1033173712"
+      "baner":"ca-app-pub-4559633946272054/6547161242",
+          "banerfull": "ca-app-pub-4559633946272054/2462600091"
   },
   "version": {
      "name": "1.0.7",
     "title":"Do you want to update the latest version?",
     "content": "- Adding 40 new levels: 46-85
 - Fixed bugs",
-    "linkUpdate":"market://details?id=com.brain.physicspuzzles",
-    "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+Tech.,+JSC"
+    "linkUpdate":"market://details?id=com.wood.truckpuzzlegame",
+    "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+warrior+game"
   }
 }
