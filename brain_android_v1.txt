@@ -6,8 +6,8 @@
   },
   "version": {
      "name": "1.0.7",
-    "title":"Do you want to update the latest version?",
-    "content": "- Adding 40 new levels: 46-85
+    "title":"",
+    "content": "
 - Fixed bugs",
     "linkUpdate":"market://details?id=com.wood.truckpuzzlegame",
     "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+warrior+game"
